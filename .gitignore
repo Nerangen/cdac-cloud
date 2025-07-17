@@ -1,1 +1,4 @@
 myenv/
+node_modules/
+*.ptau
+zk-faas/vote_circuit/circomlib/
